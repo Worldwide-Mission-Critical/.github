@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://irp.cdn-website.com/d6a2fbc4/dms3rep/multi/WMC-Logo-CMYK-Transparent-01+%281%29.svg" alt="Worldwide Mission Critical" width="400">
+</p>
+
 # Worldwide Mission Critical
 
 **Great People Delivering Great Projects**
